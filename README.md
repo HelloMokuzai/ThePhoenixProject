@@ -3,7 +3,7 @@
 # ThePhoenixProject
 A layer 2 Proof of Burn protocol, providing open-source deflationary utilities for the communities of both FLARE &amp; SONGBIRD Networks.
 
-Website: https://www.thephoenixproject.xyz/
+Website: [thephoenixproject.xyz](https://hellomokuzai.github.io/ThePhoenixProject/)
 
 Made with ❤️ for our partners, The Phoenix Project!
 - MKZI⚡
