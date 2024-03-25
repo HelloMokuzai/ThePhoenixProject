@@ -2634,6 +2634,11 @@ input, select, textarea {
 			border-radius: 4px;
 		}
 
+		.image img.icon {
+			border-radius: 0px;
+			height: 1em;
+		}
+
 		.image.left, .image.right {
 			width: 40%;
 			max-width: 10rem;
